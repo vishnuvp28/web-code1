@@ -5,8 +5,6 @@ let video = "https://www.googleapis.com/youtube/v3/videos?";
 let channel = "https://www.googleapis.com/youtube/v3/channels?";
 let api_Key = "AIzaSyD-GTjlAKgATchEFYQqaHdDuEf1y1aWF3w";
 
-//-----------------search bar---------------
-
 
 
 fetch(
